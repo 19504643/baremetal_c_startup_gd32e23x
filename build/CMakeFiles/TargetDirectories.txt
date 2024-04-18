@@ -1,0 +1,9 @@
+/home/yw/share/source/baremetal/build/CMakeFiles/rebuild_cache.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/edit_cache.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/sym.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/flash.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/lst.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/bin.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/hex.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/srec.dir
+/home/yw/share/source/baremetal/build/CMakeFiles/baremetal.dir
